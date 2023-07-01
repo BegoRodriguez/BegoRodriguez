@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BegoRodriguez
-- 👀 I’m interested in learning FullStack
-- 🌱 I’m currently learning with freeCodeCamp and The Odin Project
+- 👀 I’m interested in learning Fullstack
+- 🌱 I’m currently learning with Escuela Platon, freeCodeCamp and The Odin Project
 - 💞️ I’m looking to collaborate on things that help me to learn more
 - 📫 How to reach me brodfer@gmail.com
 
