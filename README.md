@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BegoRodriguez
-- 👀 I’m interested in learning Fullstack and practicing all that I am learning
+- 👀 I’m interested in learning Fullstack and practicing in coding
 - 🌱 I’m currently learning with Escuela Platon, freeCodeCamp and The Odin Project
 - 💞️ I’m looking to learn more and land a job in IT again
 - 📫 How to reach me brodfer@gmail.com
