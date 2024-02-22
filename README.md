@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BegoRodriguez
 - 👀 I’m interested in learning Fullstack and practicing in coding
-- 🌱 I’m currently learning with Escuela Platon, freeCodeCamp and The Odin Project
+- 🌱 I’m currently teaching FP Grado Superior DAM (Desarrollo de Aplicaciones Multiplataforma) at Centro de FP Río Duero
 - 💞️ I’m looking to learn more and land a job in IT again
 - 📫 How to reach me brodfer@gmail.com
 
