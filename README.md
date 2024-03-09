@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BegoRodriguez
 - 🌱 I’m currently teaching FP Grado Superior DAM (Desarrollo de Aplicaciones Multiplataforma) at Centro de FP Río Duero
-- 👀 I’m interested in learning Fullstack and practicing in coding
+- 👀 I’m interested in learning and practicing coding
 - 💞️ I’m looking to learn more and connect
 - 📫 How to reach me brodfer@gmail.com
 
