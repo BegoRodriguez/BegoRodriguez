@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Begoña Rodríguez (@BegoRodriguez)
 - 🌱 I’m currently teaching FP Grado Superior DAM (Desarrollo de Aplicaciones Multiplataforma) at Centro de FP Río Duero
-- 👀 I’m interested in learning and practicing coding
+- 👀 You can find my portfolio on: https://begorodriguez.github.io/portfolio/
 - 💞️ I’m looking to learn more and connect
 - 📫 How to reach me brodfer@gmail.com
 
