@@ -3,6 +3,8 @@
 - 👀 You can find my portfolio on: https://begorodriguez.github.io/portfolio/
 - 💞️ I’m looking to learn more and connect
 - 📫 How to reach me brodfer@gmail.com
+  
+- Enlace a los contenidos de SMR: https://www.dropbox.com/scl/fo/qxhbxw0ng05bjljb9dnhm/AFoTttPRI_3N5OR79hTQkpg?rlkey=6gtcu5rdhai7d4cxa4q95y62w&e=1&dl=0
 
 <!---
 BegoRodriguez/BegoRodriguez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
