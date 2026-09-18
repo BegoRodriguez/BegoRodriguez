@@ -1,5 +1,5 @@
 - 👋 Hola, soy Begoña Rodríguez (@BegoRodriguez)
-- ✨ En la actualidad imparto Sistemas informáticos de DAM, Innovación aplicada al sector productivo de SMR, Fundamentos del Hardware (Bilingüe) en ASIR y Diseño de interfaces (Bilingüe) en DAW en el IES Ribera de Castilla.
+- ✨ En la actualidad imparto Sistemas informáticos de DAM, Innovación aplicada al sector productivo de SMR en el IES Ribera de Castilla.
 - 🌱 En el pasado enseñé Programación, Bases de Datos y Entornos de Desarrollo en FP Grado Superior DAM (Desarrollo de Aplicaciones Multiplataforma) en Centro de FP Río Duero y Redes locales de SMR en el IES Ribera de Castilla
 - 👀 Puedes encontrar mi portfolio en: https://begorodriguez.github.io/portfolio/
 - 📫 Para localizarme: brodfer@gmail.com // Alumnos mejor en: begona.rodfer.1@educa.jcyl.es
