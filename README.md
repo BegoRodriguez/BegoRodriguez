@@ -4,8 +4,8 @@
 - 👀 Puedes encontrar mi portfolio en: https://begorodriguez.github.io/portfolio/
 - 📫 Para localizarme: brodfer@gmail.com // Alumnos mejor en: begona.rodfer.1@educa.jcyl.es
   
-- Enlace a los contenidos de Sistemas informáticos - DAM: https://www.dropbox.com/scl/fo/j55ap2bmygrxquzduu4zv/AMV7sLigI_w0j725yOdb5XQ?rlkey=08qvhxvvgsijtlhka40dux2ep&dl=0
-- Enlace a los contenidos de Innovación aplicada al sector productivo - SMR: https://www.dropbox.com/scl/fo/9yehkb9rbph27atyaozwn/AHdFCk7GT8-neNzVizJfXHc?rlkey=9w133hqyfrf4e673qofogjeel&dl=0
+- Enlace a los contenidos de DAM - Sistemas informáticos: https://www.dropbox.com/scl/fo/j55ap2bmygrxquzduu4zv/AMV7sLigI_w0j725yOdb5XQ?rlkey=08qvhxvvgsijtlhka40dux2ep&dl=0
+- Enlace a los contenidos de SMR - Innovación aplicada al sector productivo: https://www.dropbox.com/scl/fo/9yehkb9rbph27atyaozwn/AHdFCk7GT8-neNzVizJfXHc?rlkey=9w133hqyfrf4e673qofogjeel&dl=0
 - Link to contents of DAW - Web Interfaces Design: https://www.dropbox.com/scl/fo/kixyrup7y75gxj8g2fa8i/AHFHf_YxbQpdpjtZ8WfCR2Y?rlkey=fplc4rmte84t7003t10qcdjto&dl=0
 - Link to contents of ASIR - Hardware Fundamentals: https://www.dropbox.com/scl/fo/w0j6luc09hsz56lq2msor/AHvhEXbQUZA_MRjFNeBfevU?rlkey=s6j56cduvfxe1qd8emqo4hn4b&dl=0
 
